@@ -1,0 +1,16 @@
+{
+  "name": "Trillo",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "devserver": "live-server"
+  },
+  "author": "Jonas",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.1.4",
+    "concat": "^1.0.3",
+    "postcss-cli": "^4.1.1"
+  }
+}
